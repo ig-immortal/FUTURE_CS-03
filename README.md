@@ -1,5 +1,5 @@
 # FUTURE_CS-03
-API Security Checklist
+API Security 
 
 Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 Authentication
